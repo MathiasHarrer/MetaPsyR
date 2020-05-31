@@ -1,0 +1,16 @@
+Package: DepPsychDB
+Type: Package
+Title: Access the Meta-Analytic Depression Psychotherapy Database
+Author: Mathias Harrer, David Daniel Ebert, Pim Cuijpers
+Version: 0.1.0
+Depends: R (>= 3.5)
+Authors@R: c(
+    person("Mathias", "Harrer", email = "mathias.harrer@fau.de", role = "cre", comment = c(ORCID = "0000-0001-7016-2687")),
+    person("David Daniel", "Ebert", email = "david.daniel.ebert@gmail.com", role = "aut", comment = c(ORCID = "0000-0001-6820-0146")),
+    person("Pim", "Cuijpers", email = "p.cuijpers@vu.nl", role = "aut"))
+Maintainer: Mathias Harrer <mathias.harrer@fau.de>
+Description: Access the Meta-Analytic Depression Psychotherapy Database directly in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
