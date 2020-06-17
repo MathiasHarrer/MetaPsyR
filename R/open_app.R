@@ -13,5 +13,5 @@
 #' open_app()
 
 open_app = function(){
-  utils::browseURL("https://protectlab.shinyapps.io/depression-psychotherapy-db/")
+  utils::browseURL("http://evidencebasedpsychotherapies.shinyapps.io/metapsy/")
 }
