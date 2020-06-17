@@ -1,6 +1,6 @@
 Package: MetaPsyR
 Type: Package
-Title: Access the Meta-Analytic Depression Psychotherapy Database
+Title: Access the Meta-Analytic Psychotherapy Database
 Author: Mathias Harrer, David Daniel Ebert, Pim Cuijpers
 Version: 0.1.0
 Depends: R (>= 3.5)

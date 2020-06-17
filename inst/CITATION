@@ -1,0 +1,17 @@
+citHeader("To cite 'MetaPsyR in publications use:")
+
+citEntry(entry = "Manual",
+         title        = "MetaPsyR: Access the Meta-Analytic Psychotherapy Database",
+         author       = personList(as.person("Mathias Harrer"),
+                                   as.person("David Ebert"),
+                                   as.person("Eirini Karyotaki"),
+                                   as.person("Pim Cuijpers")),
+         year         = "2020",
+         note         = "R package version 0.1.0",
+         url          = "http://evidencebasedpsychotherapies.shinyapps.io/metapsy/",
+
+         textVersion  =
+           paste("Harrer, M., Ebert, D. D., Karyotaki, E., Cuijpers, P. (2020).",
+                 "MetaPsyR: Access the Meta-Analytic Psychotherapy Database.",
+                 "R package version 0.1.0. URL evidencebasedpsychotherapies.shinyapps.io/metaanalysis-app/.")
+)
