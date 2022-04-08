@@ -4,7 +4,9 @@
 \name{DepPsychDB}
 \alias{DepPsychDB}
 \title{Meta-Analytic Depression Psychotherapy Database Dataset}
-\format{An object of class \code{data.frame} with 411 rows and 20 columns.}
+\format{
+An object of class \code{data.frame} with 411 rows and 20 columns.
+}
 \source{
 Meta-Analytic Depression Psychotherapy Database, maintained by VU
 Amsterdam Clinical Psychology and Psychotherapy.
